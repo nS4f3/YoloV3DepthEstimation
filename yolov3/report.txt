@@ -1,0 +1,3 @@
+bottle 0.43 : 27
+backpack 0.44 : 10
+person 0.47 : 17
